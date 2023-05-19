@@ -1,0 +1,32 @@
+.box-wrapper{
+    
+}
+.box-content{
+    background-color: #16a085;
+    width: 400px;
+    height: 180px;
+    margin: 50px auto;
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+}
+.shap1{
+    background-color: #1abc9c;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: absolute;
+    top: -80px;
+    right: -10px;
+
+}
+.shap2{
+    background-color: #2ecc71;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: absolute;
+    top: -26px;
+    right: -69px
+
+}
